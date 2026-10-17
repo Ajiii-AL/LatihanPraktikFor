@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/VSCODE/Latihan_W5/cmake-build-debug",
+  "command": "\"D:\\Games\\CLion 2026.2.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Latihan1_W5_1.dir\\Latihan1Factorial.c.obj -c D:\\VSCODE\\Latihan_W5\\Latihan1Factorial.c",
+  "file": "D:/VSCODE/Latihan_W5/Latihan1Factorial.c",
+  "output": "D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan1_W5_1.dir/Latihan1Factorial.c.obj"
+},
+{
+  "directory": "D:/VSCODE/Latihan_W5/cmake-build-debug",
+  "command": "\"D:\\Games\\CLion 2026.2.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Latihan1_W5_2.dir\\Latihan1Segitiga.c.obj -c D:\\VSCODE\\Latihan_W5\\Latihan1Segitiga.c",
+  "file": "D:/VSCODE/Latihan_W5/Latihan1Segitiga.c",
+  "output": "D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan1_W5_2.dir/Latihan1Segitiga.c.obj"
+},
+{
+  "directory": "D:/VSCODE/Latihan_W5/cmake-build-debug",
+  "command": "\"D:\\Games\\CLion 2026.2.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Latihan1_W5_3.dir\\Lathian1NilaiMinimum.c.obj -c D:\\VSCODE\\Latihan_W5\\Lathian1NilaiMinimum.c",
+  "file": "D:/VSCODE/Latihan_W5/Lathian1NilaiMinimum.c",
+  "output": "D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan1_W5_3.dir/Lathian1NilaiMinimum.c.obj"
+},
+{
+  "directory": "D:/VSCODE/Latihan_W5/cmake-build-debug",
+  "command": "\"D:\\Games\\CLion 2026.2.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Latihan1_W5_4.dir\\Latihan1PenjumlahanGanjil.c.obj -c D:\\VSCODE\\Latihan_W5\\Latihan1PenjumlahanGanjil.c",
+  "file": "D:/VSCODE/Latihan_W5/Latihan1PenjumlahanGanjil.c",
+  "output": "D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan1_W5_4.dir/Latihan1PenjumlahanGanjil.c.obj"
+},
+{
+  "directory": "D:/VSCODE/Latihan_W5/cmake-build-debug",
+  "command": "\"D:\\Games\\CLion 2026.2.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Latihan2Factorial_1.dir\\Latihan2Factorial_1.c.obj -c D:\\VSCODE\\Latihan_W5\\Latihan2Factorial_1.c",
+  "file": "D:/VSCODE/Latihan_W5/Latihan2Factorial_1.c",
+  "output": "D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan2Factorial_1.dir/Latihan2Factorial_1.c.obj"
+},
+{
+  "directory": "D:/VSCODE/Latihan_W5/cmake-build-debug",
+  "command": "\"D:\\Games\\CLion 2026.2.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Latihan2Segitiga_2.dir\\Latihan2Segitiga_2.c.obj -c D:\\VSCODE\\Latihan_W5\\Latihan2Segitiga_2.c",
+  "file": "D:/VSCODE/Latihan_W5/Latihan2Segitiga_2.c",
+  "output": "D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan2Segitiga_2.dir/Latihan2Segitiga_2.c.obj"
+},
+{
+  "directory": "D:/VSCODE/Latihan_W5/cmake-build-debug",
+  "command": "\"D:\\Games\\CLion 2026.2.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Latihan2NilaiMinimumMaximum_3.dir\\Latihan2NilaiMinimumMaximum_3.c.obj -c D:\\VSCODE\\Latihan_W5\\Latihan2NilaiMinimumMaximum_3.c",
+  "file": "D:/VSCODE/Latihan_W5/Latihan2NilaiMinimumMaximum_3.c",
+  "output": "D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan2NilaiMinimumMaximum_3.dir/Latihan2NilaiMinimumMaximum_3.c.obj"
+},
+{
+  "directory": "D:/VSCODE/Latihan_W5/cmake-build-debug",
+  "command": "\"D:\\Games\\CLion 2026.2.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Latihan2PenjumlahanGanjil_4.dir\\Latihan2PenjumlahanGanjel_4.c.obj -c D:\\VSCODE\\Latihan_W5\\Latihan2PenjumlahanGanjel_4.c",
+  "file": "D:/VSCODE/Latihan_W5/Latihan2PenjumlahanGanjel_4.c",
+  "output": "D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan2PenjumlahanGanjil_4.dir/Latihan2PenjumlahanGanjel_4.c.obj"
+}
+]

@@ -1,0 +1,10 @@
+D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan1_W5_1.dir
+D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan1_W5_2.dir
+D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan1_W5_3.dir
+D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan1_W5_4.dir
+D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan2Factorial_1.dir
+D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan2Segitiga_2.dir
+D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan2NilaiMinimumMaximum_3.dir
+D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/Latihan2PenjumlahanGanjil_4.dir
+D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/VSCODE/Latihan_W5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
